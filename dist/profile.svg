@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5BA4CF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3B7AB0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F5C842;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#F5C842;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="320" height="320" rx="24" fill="url(#accent)"/>
+  <text x="160" y="185" font-family="'Libre Baskerville', Georgia, serif" font-size="120" font-weight="700" fill="white" text-anchor="middle" opacity="0.95">EL</text>
+  <text x="160" y="225" font-family="'Source Sans 3', system-ui, sans-serif" font-size="18" font-weight="400" fill="white" text-anchor="middle" opacity="0.7" letter-spacing="3">INGENIERA SSOMA</text>
+</svg>
