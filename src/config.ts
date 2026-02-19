@@ -4,9 +4,9 @@ export const siteConfig = {
   description:
     "Ingeniera Química con +12 años liderando sistemas de gestión SSOMA en minería. Auditor Interno ISO 9001/14001/45001. Operaciones en Quellaveco, Bambas, Antapaccay y más.",
 
-  // 2-color system: celeste bebé (corporate) + amarillo bebé (warm CTAs)
-  accentColor: "#5BA4CF",
-  highlightColor: "#F5C842",
+  // 2-color system: azul corporativo + plomo/gris
+  accentColor: "#2563EB",
+  highlightColor: "#6B7280",
 
   // Hero stats
   stats: [
